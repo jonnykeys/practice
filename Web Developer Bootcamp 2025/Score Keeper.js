@@ -56,5 +56,3 @@ function reset() {
         p.button.disabled = false;
     }
 }
-
-const jon = 3;
