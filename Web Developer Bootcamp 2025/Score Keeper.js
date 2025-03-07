@@ -56,3 +56,5 @@ function reset() {
         p.button.disabled = false;
     }
 }
+
+const holySheet = "jk"
